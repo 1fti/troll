@@ -1,0 +1,57 @@
+   <style>
+    .purple-background{
+	 background-color: purple;
+	}
+     
+    .indigo-video-border{
+     border-color: black;
+     border-width: 5px;
+     border-style: solid;
+    }	 
+   
+    .kinda-indigo-border{
+	 border-color:#ffc54d ;
+	 border-width: 5px;
+	 border-style: ridge;
+	 border-radius: 50%;
+	}
+	
+    .kinda-mirror-border{
+	 border-color: silver;
+	 border-width: 3px;
+	 border-style: outset;
+	} 
+	
+    .smaller-image{
+	 width: 150px;
+	}
+      
+    body {
+     background-color: #2E0249
+	}
+    .purple-text{
+     color: #ffc54d
+    }
+   
+    p {
+     font-size: 15px;
+	 font-family: mingzat, monospace;
+    }
+    
+    h1 {
+     font-size: 30px;
+	 font-family: monospace;
+    }
+	
+    h2 {
+     font-size: 25px;
+	 font-family: monospace;
+	}
+	
+	hr {
+	 border-style :dotted none none;
+	 border-width : 5px;
+	 width : 30%;
+	}
+
+    
